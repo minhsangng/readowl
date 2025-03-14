@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #eee3dd;
+    --second-color: #fff7f2;
+    --third-color: #b79e7e;
+}
+
+.active {
+    box-shadow: 0px 0px 10px gray inset;
+}

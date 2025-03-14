@@ -1,0 +1,82 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <script src="https://cdn.tailwindcss.com">
+    </script>
+    <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="view/css/style.css">
+</head>
+
+<body class="flex justify-center items-center min-h-screen">
+    <div class="rounded-xl w-full h-full">
+        <div class="flex">
+            <!-- Sidebar -->
+            <div class="w-1/6 pr-4 p-6 relative">
+                <a href="index.php" class="flex items-center mb-4 pb-4 border-b-2">
+                    <img alt="Readowl logo" class="mr-2" height="50" src="assets/img/logo.png" width="50" />
+                    <span class="text-2xl font-bold text-orange-600">
+                        ReadOwl
+                    </span>
+                </a>
+                <nav class="mb-8">
+                    <ul>
+                        <li class="mb-4 rounded-lg px-4 py-2 nav-item" id="home">
+                            <a class="flex items-center hover:text-orange-600" href="index.php?p=home">
+                                <i class="fas fa-home mr-2">
+                                </i>
+                                Home
+                            </a>
+                        </li>
+                        <li class="mb-4 rounded-lg px-4 py-2 nav-item" id="library">
+                            <a class="flex items-center hover:text-orange-600" href="index.php?p=library">
+                                <i class="fas fa-book mr-2">
+                                </i>
+                                My library
+                            </a>
+                        </li>
+                        <li class="mb-4 rounded-lg px-4 py-2 nav-item" id="cart">
+                            <a class="flex items-center hover:text-orange-600" href="index.php?p=cart">
+                                <i class="fas fa-shopping-cart mr-2">
+                                </i>
+                                Cart
+                            </a>
+                        </li>
+                        <li class="mb-4 rounded-lg px-4 py-2 nav-item" id="news">
+                            <a class="flex items-center hover:text-orange-600" href="index.php?p=news">
+                                <i class="fas fa-newspaper mr-2">
+                                </i>
+                                News
+                            </a>
+                        </li>
+                        <hr class="mb-4">
+                        <li class="mb-4 rounded-lg px-4 py-2 nav-item" id="login">
+                            <a class="flex items-center hover:text-orange-600" href="index.php?p=login">
+                                <i class="fa-solid fa-right-to-bracket mr-2"></i>
+                                Login
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="mt-20">
+                    <div
+                        class="flex flex-col items-center justify-center p-4 bg-gray-100 w-full rounded-lg border-solid border-4 border-gray-500">
+                        <p class="text-sm text-gray-600 border-l-4 pl-4">
+                            Continue reading
+                        </p>
+                        <img alt="Continue reading book cover" class="h-52 w-fit p-2 rounded-sm"
+                            src="https://storage.googleapis.com/a1aa/image/mC5zyhndcfmCMJBUvAk9sb0x_Mej9freHPd84nCdNCc.jpg"
+                            width="50" />
+                    </div>
+                    <div class="bg-[#DDD]/50 hover:bg-[#DDD] w-full rounded-md mt-1 flex justify-between px-3 py-2">
+                        <p class="text-lg font-bold">
+                            Stephan
+                        </p>
+                        <p>&gt;</p>
+                    </div>
+                </div>
+                <div class="h-full w-2 border-dashed border-r-2 border-[--third-color] absolute top-0 right-0"></div>
+            </div>
