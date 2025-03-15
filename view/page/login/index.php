@@ -15,28 +15,26 @@
             </div>
             <div class="p-8 w-full">
                 <form action="" method="post">
-                    <h2 class="text-blue-500 text-3xl font-semibold mb-6 tracking-[8px]">LOGIN</h2>
+                    <h2 class="text-blue-500 text-3xl font-semibold mb-6 tracking-[8px]">ĐĂNG NHẬP</h2>
                     <div class="flex flex-col">
                         <div>
-                            <label class="block text-gray-500 text-sm">Your Email</label>
+                            <label class="block text-gray-500 text-sm">Email</label>
                             <input type="email" name="email"
                                 class="w-full border-b-2 border-gray-300 focus:border-blue-500 outline-none py-1 pr-8">
                         </div>
                     </div>
                     <div class="mt-4">
-                        <label class="block text-gray-500 text-sm">Password</label>
+                        <label class="block text-gray-500 text-sm">Mật khẩu</label>
                         <input type="password" name="pass"
                                 class="w-full border-b-2 border-gray-300 focus:border-blue-500 outline-none py-1">
                     </div>
                     <div class="flex justify-between mt-14 text-gray-500">
-                        <p>You don't have account? <a href="index.php?p=signup" class="text-blue-500">Sign up</a></p>
-                        <a href="" class="text-[--third-color]">Forget password?</a>
+                        <p>Chưa có tài khoản? <a href="index.php?p=signup" class="text-blue-500">Đăng nhập</a></p>
+                        <a href="" class="text-[--third-color]">Quên mật khẩu?</a>
                     </div>
                     <div class="flex justify-end items-center mt-8">
-                        <button type="reset"
-                            class="bg-gray-300 text-gray-400 px-6 py-2 rounded-full mr-4">Reset</button>
                         <button type="submit" class="bg-blue-500 text-white px-6 py-2 rounded-full"
-                            name="btndn">Login</button>
+                            name="btndn">Đăng nhập</button>
                     </div>
                 </form>
                 <div>

@@ -3,21 +3,24 @@
 <div id="layoutSidenav_content" class="w-full my-8">
     <main class="w-full">
         <div class="flex-1 p-6">
+            <h1 class="text-2xl font-bold mb-4">
+                Thư viện
+            </h1>
             <div class="flex space-x-8 mb-6">
                 <a class="text-lg h-12 font-semibold text-blue-600 hover:text-black border-b-2" href="#">
-                    Fiction
+                    Viễn tưởng
                 </a>
                 <a class="text-lg h-12 font-semibold text-gray-700 hover:text-black" href="#">
-                    Non-Fiction
+                    Phi hư cấu
                 </a>
                 <a class="text-lg h-12 font-semibold text-gray-700 hover:text-black" href="#">
-                    Education & Academic
+                    Giáo dục
                 </a>
                 <a class="text-lg h-12 font-semibold text-gray-700 hover:text-black" href="#">
-                    Children's Books
+                    Trẻ em
                 </a>
                 <a class="text-lg h-12 font-semibold text-gray-700 hover:text-black" href="#">
-                    Technology & Sciene
+                    Công nghệ và khoa học
                 </a>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
@@ -28,7 +31,7 @@
                         width="150" />
                     <div class="flex justify-between items-center mb-2">
                         <span class="bg-yellow-400 text-white text-xs px-2 py-1 rounded">
-                            Best Seller
+                            Sách ưa thích
                         </span>
                         <i class="far fa-heart text-gray-700">
                         </i>
@@ -37,13 +40,13 @@
                         Work for Money, Design for Love
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Business &amp; Money
+                        Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $22.00
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
                 <!-- Book Item -->
@@ -53,7 +56,7 @@
                         width="150" />
                     <div class="flex justify-between items-center mb-2">
                         <span class="bg-yellow-400 text-white text-xs px-2 py-1 rounded">
-                            Best Seller
+                            Sách ưa thích
                         </span>
                         <i class="far fa-heart text-gray-700">
                         </i>
@@ -62,13 +65,13 @@
                         Very Nice: A novel
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Literature &amp; Fiction
+                        Viễn tưởng
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $18.90
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
                 <!-- Book Item -->
@@ -84,13 +87,13 @@
                         The Psychology of Graphic Design Pricing
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Graphic Design
+                        Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $30.59
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
                 <!-- Book Item -->
@@ -106,13 +109,13 @@
                         Juliet the Maniac
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Literature &amp; Fiction
+                        Viễn tưởng
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $9.99
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
                 <!-- Book Item -->
@@ -126,16 +129,16 @@
                         </i>
                     </div>
                     <h3 class="text-lg h-12 font-semibold mb-2">
-                        Logo Design Love: A Guide to Creating Iconic Brand Identities
+                        Logo Design Love: A Guide to Creating Iconic
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Graphic Design
+                        Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $24.91
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
                 <!-- Book Item -->
@@ -152,13 +155,13 @@
                         Thinking with Type, 1nd revised and expanded edition
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Graphic Design
+                        Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $12.04
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
                 <!-- Book Item -->
@@ -175,13 +178,13 @@
                         Thinking with Type, 2nd revised and expanded edition
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Graphic Design
+                        Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $12.04
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
                 <!-- Book Item -->
@@ -198,15 +201,27 @@
                         Thinking with Type, 3nd revised and expanded edition
                     </h3>
                     <p class="text-gray-500 mb-2">
-                        Graphic Design
+                        Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
                         $12.04
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
-                        Details
+                        Chi tiết
                     </button>
                 </div>
+            </div>
+            <div class="flex justify-between items-center mt-8 text-lg">
+                <button class="text-gray-500 px-3 py-1 rounded-full">
+                    << </button>
+                        <div>
+                            <button class="bg-blue-500 text-white px-3 py-1 rounded-full mx-1">01</button>
+                            <button class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full mx-1">02</button>
+                            <button class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full mx-1">03</button>
+                            <button class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full mx-1">...</button>
+                            <button class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full mx-1">12</button>
+                        </div>
+                        <button class="text-gray-500 bg-[#DDD] px-3 py-1 rounded-full">>></button>
             </div>
     </main>
 </div>

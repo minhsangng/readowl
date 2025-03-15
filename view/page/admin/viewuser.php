@@ -5,26 +5,21 @@
         <div class="flex-1 p-6">
             <div class="flex justify-between items-center mb-6">
                 <h1 class="text-2xl font-bold">
-                    Users
+                    Danh sách đọc giả
                 </h1>
                 <div class="flex items-center space-x-4">
                     <button class="bg-green-500 text-white px-4 py-2 rounded">
-                        <a href="index.php?p=adduser">+ Add User</a>
+                        <a href="index.php?p=adduser">+ Thêm</a>
                     </button>
-                    <div class="relative">
-                        <input class="border rounded px-4 py-2" placeholder="Search" type="text" />
-                        <i class="fas fa-search absolute right-3 top-3 text-gray-500">
-                        </i>
-                    </div>
                 </div>
             </div>
             <div class="bg-white shadow rounded-lg">
                 <div class="flex border-b">
                     <button class="flex-1 py-4 text-center text-green-500 border-b-2 border-green-500">
-                        All Users
+                        Tất cả
                     </button>
                     <button class="flex-1 py-4 text-center text-gray-500">
-                        New User
+                        Mới đăng ký
                     </button>
                 </div>
                 <div class="overflow-x-auto">
@@ -32,19 +27,19 @@
                         <thead>
                             <tr class="w-full bg-gray-100 text-gray-600 uppercase text-sm leading-normal">
                                 <th class="py-3 px-6">
-                                    Name
+                                    Họ tên
                                 </th>
                                 <th class="py-3 px-6">
-                                    Total Rent
+                                    Đã mua
                                 </th>
                                 <th class="py-3 px-6">
-                                    Registration Date
+                                    Ngày đăng ký
                                 </th>
                                 <th class="py-3 px-6">
-                                    Status
+                                    Trạng thái
                                 </th>
-                                <th class="py-3 px-6 text-center">
-                                    Actions
+                                <th class="py-3 px-6">
+                                    
                                 </th>
                             </tr>
                         </thead>

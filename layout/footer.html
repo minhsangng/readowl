@@ -1,6 +1,61 @@
+<style>
+    @media (min-width: 768px) {
+        .md\:grid-cols-3 {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            padding-bottom: 10px;
+            padding-top: 10px;
+            text-align: center;
+        }
+    }
+</style>
+
+<footer class="px-6 pt-8 bg-[#5c6f82] w-full text-white">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8 text-center">
+        <div class="text-md">
+            <h2 class="text-xl font-semibold mb-3 border-b-2 w-[100px] mx-auto pb-2">Liên hệ</h2>
+            <p><i class="fas fa-envelope mr-2"></i> Email: support@readowl.com</p>
+            <p><i class="fas fa-phone mr-2"></i> Hotline: 0987 654 321</p>
+            <p><i class="fas fa-map-marker-alt mr-2"></i> Địa chỉ: 123 Đường ABC, TP.HCM</p>
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
         </div>
+        <div class="text-md">
+            <h2 class="text-xl font-semibold mb-3 border-b-2 w-[150px] mx-auto pb-2">Liên kết nhanh</h2>
+            <ul>
+                <li><a href="index.php?p=home" class="hover:underline">Trang chủ</a></li>
+                <li><a href="index.php?p=library" class="hover:underline">Thư viện</a></li>
+                <li><a href="index.php?p=cart" class="hover:underline">Giỏ hàng</a></li>
+                <li><a href="index.php?p=news" class="hover:underline">Tin tức</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 class="text-xl font-semibold mb-3 border-b-2 w-[180px] mx-auto pb-2">Sách hay nên đọc</h2>
+            <div class="flex items-center space-x-4" style="padding-left: 110px">
+                <img src="https://storage.googleapis.com/a1aa/image/mC5zyhndcfmCMJBUvAk9sb0x_Mej9freHPd84nCdNCc.jpg"
+                    alt="Book Cover" class="w-16 h-20 rounded">
+                <div>
+                    <p class="font-bold">Nhà Giả Kim</p>
+                    <p class="text-sm text-gray-400">Paulo Coelho</p>
+                </div>
+            </div>
+        </div>
+
     </div>
-    <script src="view/js/main.js"></script>
+    <div class="bottom pb-4 pt-2 border-t-2 w-[400px] mx-auto text-[#ecf0f1] text-center italic">
+        <p class="text-sm">&copy; <span id="year">2025</span> ReadOwl. Tất cả các quyền được bảo lưu.</p>
+    </div>
+</footer>
+<div class="progress-bar" id="progress-bar" style="z-index: 9999;">
+        <a href="javascript:void(0)" id="progress-val" onclick="
+                  let scrollInterval = setInterval(function () {
+                       if (window.scrollY !== 0) window.scrollBy(0, -window.scrollY / 10);
+                       else clearInterval(scrollInterval);
+                  }, 10);">
+            <i class="fa-regular fa-circle-up"></i>
+        </a>
+    </div>
 </body>
+<script src="view/js/main.js"></script>
 
 </html>

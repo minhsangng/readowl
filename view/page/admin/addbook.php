@@ -4,13 +4,13 @@
     <main class="w-full">
         <div class="bg-white p-8 rounded-lg shadow-lg w-full mx-auto max-w-3xl">
             <h1 class="text-2xl font-bold text-center mb-4">
-                CREATE NEW BOOK
+                Thêm sách mới
             </h1>
             <form>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
                     <div>
                         <label class="block text-gray-700">
-                            Book Title
+                            Tựa đề
                         </label>
                         <div class="relative">
                             <input class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
@@ -19,7 +19,7 @@
                     </div>
                     <div>
                         <label class="block text-gray-700">
-                            Author
+                            Tác giả
                         </label>
                         <div class="relative">
                             <input class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
@@ -28,7 +28,7 @@
                     </div>
                     <div>
                         <label class="block text-gray-700">
-                            Publisher
+                            Nhà xuất bản
                         </label>
                         <div class="relative">
                             <input class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
@@ -37,29 +37,29 @@
                     </div>
                     <div>
                         <label class="block text-gray-700">
-                            Genre
+                            Thể loại
                         </label>
                         <select class="w-full border border-gray-300 p-2 rounded mt-1">
                             <option>
-                                Fiction
+                                Viễn tưởng
                             </option>
                             <option>
-                                Non-Fiction
+                                Phi hư cấu
                             </option>
                             <option value="">
-                                Education & Academic
+                                Giáo dục
                             </option>
                             <option value="">
-                                Children's Books
+                                Sách trẻ em
                             </option>
                             <option value="">
-                                Technology & Sciene
+                                Công nghệ và khoa học
                             </option>
                         </select>
                     </div>
                     <div>
                         <label class="block text-gray-700">
-                            ISBN
+                            Mã ISBN
                         </label>
                         <div class="relative">
                             <input class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
@@ -68,7 +68,7 @@
                     </div>
                     <div>
                         <label class="block text-gray-700">
-                            Publication Date
+                            Ngày phát hành
                         </label>
                         <div class="relative">
                             <input class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
@@ -77,7 +77,7 @@
                     </div>
                     <div>
                         <label class="block text-gray-700">
-                        Number of Pages
+                        Số trang
                         </label>
                         <div class="relative">
                             <input class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
@@ -86,7 +86,7 @@
                     </div>
                     <div>
                         <label class="block text-gray-700">
-                        Edition 
+                        Ấn bản 
                         </label>
                         <div class="relative">
                             <input class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
@@ -96,7 +96,7 @@
                 </div>
                 <div class="mb-4">
                     <label class="block text-gray-700">
-                        Description
+                        Mô tả ngắn
                     </label>
                     <textarea class="w-full border border-gray-300 p-2 rounded mt-1" placeholder=""
                         rows="4"></textarea>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="text-center">
                     <button class="bg-black text-white px-6 py-2 rounded-full" type="submit">
-                        CREATE BOOK →
+                        Thêm →
                     </button>
                 </div>
             </form>

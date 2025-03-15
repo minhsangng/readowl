@@ -3,7 +3,7 @@ window.onload = function() {
   var myBarChart = new Chart(ctx, {
     type: 'bar',
     data: {
-      labels: ["Fiction", "Non-Fiction", "Education & Academic", "Children's Books", "Technology & Science"],
+      labels: ["Viễn tưởng", "Phi hư cấu", "Giáo dục", "Sách trẻ em", "Công nghệ & Khoa học"],
       datasets: [{
         label: "Books Borrowed",
         backgroundColor: "rgba(75, 192, 192, 0.8)",

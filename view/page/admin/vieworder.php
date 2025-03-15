@@ -5,17 +5,17 @@
         <div class="flex-1 p-6">
             <div class="flex justify-between items-center mb-6">
                 <h1 class="text-2xl font-semibold">
-                    Orders
+                    Hồ sơ
                 </h1>
             </div>
             <div class="bg-white p-6 rounded-lg shadow">
                 <div class="flex justify-between items-center border-b pb-4 mb-4">
                     <div class="flex space-x-4">
                         <button class="text-blue-600 hover:text-blue-600">
-                            Rented
+                            Đã mượn
                         </button>
                         <button class="text-gray-600 hover:text-blue-600">
-                            Bought
+                            Đã mua
                         </button>
                     </div>
                 </div>
@@ -23,25 +23,24 @@
                     <thead>
                         <tr>
                             <th class="py-2">
-                                ORSER ID
+                                Mã hồ sơ
                             </th>
                             <th class="py-2">
-                                RENTAL DATE
+                                Ngày mượn
                             </th>
                             <th class="py-2">
-                                RETURN DATE
+                                Ngày trả
                             </th>
                             <th class="py-2">
-                                TOTAL BOOKS
+                                Số lượng
                             </th>
                             <th class="py-2">
-                                INFO BOOKS
+                                Thông tin sách
                             </th>
                             <th class="py-2">
-                                STATUS
+                                Trạng thái
                             </th>
                             <th class="py-2">
-                                ACTIONS
                             </th>
                         </tr>
                     </thead>
@@ -63,7 +62,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-green-500">
-                                Renting
+                                Yes
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -78,7 +77,7 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
+                                23/10/2021
                             </td>
                             <td class="py-2">
                                 4 books
@@ -87,7 +86,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-green-500">
-                                Renting
+                                Yes
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -102,7 +101,6 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
                                 6 books
@@ -111,7 +109,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -126,7 +124,6 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
                                 6 books
@@ -135,7 +132,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -159,7 +156,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-green-500">
-                                Renting
+                                Yes
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -174,7 +171,6 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
                                 12 books
@@ -183,7 +179,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -198,7 +194,6 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
                                 12 books
@@ -207,7 +202,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -222,7 +217,6 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
                                 12 books
@@ -231,7 +225,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -246,16 +240,15 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
-                                12 books
+                                5 books
                             </td>
                             <td class="py-2 text-center">
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -270,16 +263,15 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
-                                12 books
+                                6 books
                             </td>
                             <td class="py-2 text-center">
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -294,7 +286,6 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
                                 12 books
@@ -303,7 +294,7 @@
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -318,16 +309,15 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
-                                12 books
+                                3 books
                             </td>
                             <td class="py-2 text-center">
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -342,16 +332,15 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
-                                12 books
+                                15 books
                             </td>
                             <td class="py-2 text-center">
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">
@@ -366,16 +355,15 @@
                                 14/09/2021
                             </td>
                             <td class="py-2">
-                                16/09/2021
                             </td>
                             <td class="py-2">
-                                12 books
+                                9 books
                             </td>
                             <td class="py-2 text-center">
                                 ...
                             </td>
                             <td class="py-2 text-red-500">
-                                UnRent
+                                No
                             </td>
                             <td class="py-2">
                                 <i class="fas fa-ellipsis-v text-gray-500">

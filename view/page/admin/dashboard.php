@@ -3,49 +3,49 @@
 <div id="layoutSidenav_content">
     <main>
         <div class="container-fluid px-4">
-            <h1 class="my-4 font-bold">Dashboard</h1>
+            <h1 class="my-4 font-bold text-2xl">Thông tin tổng quan</h1>
             <div class="grid grid-cols-5 gap-4">
                 <div class="">
                     <div class="card bg-primary text-white mb-4">
-                        <div class="card-body">Fiction</div>
+                        <div class="card-body">Viễn tưởng</div>
                         <div class="card-footer d-flex align-items-center justify-content-between">
-                            <a class="small text-white stretched-link" href="#">View All</a>
+                            <a class="small text-white stretched-link" href="#">Xem tất cả</a>
                             <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="card bg-warning text-white mb-4">
-                        <div class="card-body">Non-Fiction</div>
+                        <div class="card-body">Phi hư cấu</div>
                         <div class="card-footer d-flex align-items-center justify-content-between">
-                            <a class="small text-white stretched-link" href="#">View All</a>
+                            <a class="small text-white stretched-link" href="#">Xem tất cả</a>
                             <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="card bg-success text-white mb-4">
-                        <div class="card-body">Education & Academic</div>
+                        <div class="card-body">Giáo dục</div>
                         <div class="card-footer d-flex align-items-center justify-content-between">
-                            <a class="small text-white stretched-link" href="#">View All</a>
+                            <a class="small text-white stretched-link" href="#">Xem tất cả</a>
                             <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="card bg-danger text-white mb-4">
-                        <div class="card-body">Children's Books</div>
+                        <div class="card-body">Sách trẻ em</div>
                         <div class="card-footer d-flex align-items-center justify-content-between">
-                            <a class="small text-white stretched-link" href="#">View All</a>
+                            <a class="small text-white stretched-link" href="#">Xem tất cả</a>
                             <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="card bg-info text-white mb-4">
-                        <div class="card-body">Technology & Science</div>
+                        <div class="card-body">Công nghệ & Khoa học</div>
                         <div class="card-footer d-flex align-items-center justify-content-between">
-                            <a class="small text-white stretched-link" href="#">View All</a>
+                            <a class="small text-white stretched-link" href="#">Xem tất cả</a>
                             <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                         </div>
                     </div>
@@ -56,7 +56,7 @@
                     <div class="card mb-4">
                         <div class="card-header">
                             <i class="fas fa-chart-area me-1"></i>
-                            Order of the Week
+                            Lượng sách cho mượn/bán trong tuần
                         </div>
                         <div class="card-body"><canvas id="myAreaChart" width="100%" height="60"></canvas></div>
                     </div>
@@ -65,7 +65,7 @@
                     <div class="card mb-4">
                         <div class="card-header">
                             <i class="fas fa-chart-bar me-1"></i>
-                            Order by Genre
+                            Lượng sách cho mượn/bán theo thể loại
                         </div>
                         <div class="card-body"><canvas id="myBarChart" width="100%" height="60"></canvas></div>
                     </div>
@@ -74,28 +74,28 @@
             <div class="card mb-4">
                 <div class="card-header">
                     <i class="fas fa-table me-1"></i>
-                    List Users
+                    Danh sách đọc giả
                 </div>
                 <div class="card-body">
                     <table id="datatablesSimple">
                         <thead>
                             <tr>
-                                <th>Name</th>
-                                <th>Position</th>
-                                <th>Country</th>
-                                <th>Age</th>
-                                <th>Start date</th>
-                                <th>Total Rent</th>
+                                <th>Tên đọc giả</th>
+                                <th>Email</th>
+                                <th>Quốc gia</th>
+                                <th>Tuổi</th>
+                                <th>Ngày đăng ký</th>
+                                <th>Đã mua</th>
                             </tr>
                         </thead>
                         <tfoot>
                             <tr>
-                                <th>Name</th>
-                                <th>Position</th>
-                                <th>Country</th>
-                                <th>Age</th>
-                                <th>Start date</th>
-                                <th>Total Rent</th>
+                                <th>Tên đọc giả</th>
+                                <th>Email</th>
+                                <th>Quốc gia</th>
+                                <th>Tuổi</th>
+                                <th>Ngày đăng ký</th>
+                                <th>Đã mua</th>
                             </tr>
                         </tfoot>
                         <tbody>
