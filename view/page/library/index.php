@@ -175,7 +175,7 @@
                     Top 50 sách hay cho trẻ em
                 </h3>
                 <p class="text-gray-600">
-                    Discover the best books for children.
+                    Tìm kiếm sách hay nhất cho trẻ em.
                 </p>
             </div>
             <div class="bg-white p-4 rounded shadow">
@@ -183,7 +183,7 @@
                     Top 50 sách khoa học
                 </h3>
                 <p class="text-gray-600">
-                    Explore the timeless classics.
+                    Tìm kiếm sách hay nhất cho người thích khoa học.
                 </p>
             </div>
             <div class="bg-white p-4 rounded shadow">
@@ -191,7 +191,7 @@
                     Top 50 tiểu thuyết
                 </h3>
                 <p class="text-gray-600">
-                    Dive into the best science fiction books.
+                    Tìm kiếm sách hay nhất cho người thích tiểu thích.
                 </p>
             </div>
         </div>
