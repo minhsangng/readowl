@@ -154,7 +154,7 @@
                     The Cambers of Secrets
                 </h2>
                 <p class="text-sm text-gray-500 mb-2">
-                    154 / 300 pages
+                    154 / 300 trang
                 </p>
                 <p class="text-sm text-gray-600 mb-4">
                 Harry khi anh trở lại trường đào tạo phù thủy và pháp sư Hogwarts để học năm thứ 2, chỉ để phát hiện ra rằng...
