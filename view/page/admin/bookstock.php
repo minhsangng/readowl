@@ -1,4 +1,4 @@
-<title>Book Stock | ReadOwl</title>
+<title>Quản lý tồn kho</title>
 
 <div id="layoutSidenav_content" class="w-full my-8">
     <main class="w-full">
@@ -74,7 +74,7 @@
                                 #KP284700
                             </td>
                             <td class="py-2">
-                                $90.50
+                                90.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 350 quyển
@@ -103,7 +103,7 @@
                                 #TL651535
                             </td>
                             <td class="py-2">
-                                $12.00
+                                12.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 650 quyển
@@ -132,7 +132,7 @@
                                 #GB551535
                             </td>
                             <td class="py-2">
-                                $100.50
+                                10.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 1200 quyển
@@ -161,7 +161,7 @@
                                 #ER651535
                             </td>
                             <td class="py-2">
-                                $59.99
+                                59.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 700 quyển
@@ -190,7 +190,7 @@
                                 #SD434741
                             </td>
                             <td class="py-2">
-                                $150.90
+                                15.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 800 quyển
@@ -219,7 +219,7 @@
                                 #TL490033
                             </td>
                             <td class="py-2">
-                                $130.99
+                                13.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 23 quyển
@@ -248,7 +248,7 @@
                                 #KP651535
                             </td>
                             <td class="py-2">
-                                $130.00
+                                13.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 400 quyển
@@ -277,7 +277,7 @@
                                 #GA480033
                             </td>
                             <td class="py-2">
-                                $40.70
+                                40.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 440 quyển
@@ -306,7 +306,7 @@
                                 #SD490033
                             </td>
                             <td class="py-2">
-                                $35.50
+                                35.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 300 quyển
@@ -335,7 +335,7 @@
                                 #ER580812
                             </td>
                             <td class="py-2">
-                                $9.99
+                                90.000 <sup>đ</sup>
                             </td>
                             <td class="py-2">
                                 1200 quyển

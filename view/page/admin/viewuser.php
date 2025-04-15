@@ -1,4 +1,4 @@
-<title>View User | ReadOwl</title>
+<title>Danh sách đọc giả</title>
 
 <div id="layoutSidenav_content" class="w-full my-8">
     <main class="w-full">
@@ -57,7 +57,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $79.00
+                                        79.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">
@@ -84,7 +84,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $74.00
+                                        74.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">
@@ -111,7 +111,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $99.00
+                                        99.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">
@@ -138,7 +138,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $102.00
+                                        10.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">
@@ -165,7 +165,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $36.00
+                                        36.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">
@@ -192,7 +192,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $65.00
+                                        65.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">
@@ -219,7 +219,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $116.00
+                                        11.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">
@@ -246,7 +246,7 @@
                                 </td>
                                 <td class="py-3 px-6">
                                     <span class="font-bold">
-                                        $81.00
+                                        81.000 <sup>đ</sup>
                                     </span>
                                 </td>
                                 <td class="py-3 px-6">

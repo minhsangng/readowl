@@ -1,4 +1,4 @@
-<title>Create User | ReadOwl</title>
+<title>Thêm đọc giả</title>
 
 <div id="layoutSidenav_content" class="w-full my-8">
     <main class="w-full">

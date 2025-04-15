@@ -1,4 +1,4 @@
-<title>View Order | ReadOwl</title>
+<title>Hồ sơ sách</title>
 
 <div id="layoutSidenav_content" class="w-full my-8">
     <main class="w-full">
@@ -56,7 +56,7 @@
                                 16/09/2021
                             </td>
                             <td class="py-2">
-                                2 books
+                                2 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -80,7 +80,7 @@
                                 23/10/2021
                             </td>
                             <td class="py-2">
-                                4 books
+                                4 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -103,7 +103,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                6 books
+                                6 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -126,7 +126,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                6 books
+                                6 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -150,7 +150,7 @@
                                 16/09/2021
                             </td>
                             <td class="py-2">
-                                2 books
+                                2 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -173,7 +173,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                12 books
+                                12 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -196,7 +196,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                12 books
+                                12 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -219,7 +219,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                12 books
+                                12 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -242,7 +242,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                5 books
+                                5 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -265,7 +265,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                6 books
+                                6 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -288,7 +288,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                12 books
+                                12 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -311,7 +311,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                3 books
+                                3 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -334,7 +334,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                15 books
+                                15 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...
@@ -357,7 +357,7 @@
                             <td class="py-2">
                             </td>
                             <td class="py-2">
-                                9 books
+                                9 quyển
                             </td>
                             <td class="py-2 text-center">
                                 ...

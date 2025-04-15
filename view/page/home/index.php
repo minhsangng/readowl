@@ -1,5 +1,5 @@
 <title>
-    Home
+    Trang chủ
 </title>
 
 <style>
@@ -111,7 +111,7 @@
                             A Legend of Ice and Fire: The Ice Horse
                         </h3>
                         <p class="text-md italic text-gray-500">
-                            8 chapters each vol
+                            8 tập mỗi chương
                         </p>
                     </div>
                 </div>
@@ -157,9 +157,7 @@
                     154 / 300 pages
                 </p>
                 <p class="text-sm text-gray-600 mb-4">
-                    Harry as he returns to Hogwarts school of witchcraft and wizardry for his 2nd year, only to
-                    discover
-                    that...
+                Harry khi anh trở lại trường đào tạo phù thủy và pháp sư Hogwarts để học năm thứ 2, chỉ để phát hiện ra rằng...
                 </p>
                 <p class="text-sm text-gray-500">
                     - JK Rowlings
@@ -167,7 +165,7 @@
             </div>
             <div class="bg-white p-4 rounded-lg shadow-md mb-6">
                 <h2 class="text-xl font-semibold mb-4">
-                    Schedule Reading
+                    Lịch
                 </h2>
                 <div class="grid grid-cols-7 gap-2 text-center">
                     <?php
@@ -192,7 +190,7 @@
             </div>
             <div class="bg-white p-4 rounded-lg shadow-md">
                 <h2 class="text-xl font-semibold mb-4">
-                    Reader Friends
+                    Nhận xét của đọc giả
                 </h2>
                 <div class="flex items-center mb-4">
                     <img alt="Roberto Jordan" class="w-10 h-10 rounded-full mr-4" height="40"
@@ -203,12 +201,10 @@
                             Roberto Jordan
                         </p>
                         <p class="text-sm text-gray-600">
-                            What a delightful and magical chapter it is! It indeed transports readers to the
-                            wizarding
-                            world.
+                            Thật là một chương thú vị và kỳ diệu! Nó thực sự đưa người đọc đến thế giới phù thủy.
                         </p>
                         <p class="text-sm text-red-500">
-                            Chapter Five: Diagon Alley
+                            Chương 5: Diagon Alley
                         </p>
                     </div>
                 </div>
@@ -221,7 +217,7 @@
                             Anna Henry
                         </p>
                         <p class="text-sm text-gray-600">
-                            I finished reading the chapter last night and...
+                            Tôi đã đọc xong cả chương này vào tối qua...
                         </p>
                     </div>
                 </div>

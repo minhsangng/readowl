@@ -1,4 +1,4 @@
-<title>Create Book | ReadOwl</title>
+<title>Thêm sách mới</title>
 
 <div id="layoutSidenav_content" class="w-full my-8">
     <main class="w-full">

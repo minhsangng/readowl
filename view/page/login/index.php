@@ -1,4 +1,4 @@
-<title>Login | ReadOwl</title>
+<title>Đăng nhập</title>
 <div class="flex-1 p-6 h-min-screen rounded-lg m-2" style="background-color: var(--primary-color);">
     <div class="bg-white shadow-lg rounded-lg w-1/2 mx-[auto] h-[500px]">
         <div class="flex justify-center my-24">

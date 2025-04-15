@@ -1,4 +1,4 @@
-<title>Signup | ReadOwl</title>
+<title>Đăng ký</title>
 
 <div class="flex-1 p-6 h-min-screen rounded-lg m-2" style="background-color: var(--primary-color);">
     <div class="bg-white shadow-lg rounded-lg w-full max-w-4xl mx-[auto] my-12">

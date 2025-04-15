@@ -1,4 +1,4 @@
-<title>View Books | ReadOwl</title>
+<title>Thư viện sách</title>
 
 <div id="layoutSidenav_content" class="w-full my-8">
     <main class="w-full">
@@ -43,7 +43,7 @@
                         Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $22.00
+                        120.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
@@ -68,7 +68,7 @@
                         Viễn tưởng
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $18.90
+                        220.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
@@ -90,7 +90,7 @@
                         Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $30.59
+                        235.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
@@ -112,7 +112,7 @@
                         Viễn tưởng
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $9.99
+                        160.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
@@ -135,7 +135,7 @@
                         Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $24.91
+                        212.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
@@ -158,7 +158,7 @@
                         Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $12.04
+                        99.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
@@ -168,20 +168,20 @@
                 <div class="bg-white p-4 rounded-lg shadow">
                     <img alt="Book cover of 'Thinking with Type, 2nd revised and expanded edition'" class="w-full mb-4"
                         height="200"
-                        src="https://storage.googleapis.com/a1aa/image/Nw54aHX9rxboPxKHV41k2MeClG15dM1wcoeDtcj7Lc8.jpg"
+                        src="https://salt.tikicdn.com/cache/750x750/ts/product/d8/bc/0e/79cab98b4eaabcb2696f4daefaf8f592.jpg.webp"
                         width="150" />
                     <div class="flex justify-between items-center mb-2">
                         <i class="far fa-heart text-gray-700">
                         </i>
                     </div>
                     <h3 class="text-lg h-12 font-semibold mb-2">
-                        Thinking with Type, 2nd revised and expanded edition
+                        Complete Book of the Microscope
                     </h3>
                     <p class="text-gray-500 mb-2">
                         Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $12.04
+                        105.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
@@ -191,20 +191,20 @@
                 <div class="bg-white p-4 rounded-lg shadow">
                     <img alt="Book cover of 'Thinking with Type, 2nd revised and expanded edition'" class="w-full mb-4"
                         height="200"
-                        src="https://storage.googleapis.com/a1aa/image/Nw54aHX9rxboPxKHV41k2MeClG15dM1wcoeDtcj7Lc8.jpg"
+                        src="https://salt.tikicdn.com/cache/750x750/ts/product/5a/e1/67/b481512110d25f1ee32422674374a2a5.jpeg.webp"
                         width="150" />
                     <div class="flex justify-between items-center mb-2">
                         <i class="far fa-heart text-gray-700">
                         </i>
                     </div>
                     <h3 class="text-lg h-12 font-semibold mb-2">
-                        Thinking with Type, 3nd revised and expanded edition
+                        38 Bức Thư Rockefeller Gửi Cho Con Trai
                     </h3>
                     <p class="text-gray-500 mb-2">
                         Giáo dục
                     </p>
                     <p class="text-green-500 font-semibold mb-4">
-                        $12.04
+                        350.000 <sup>đ</sup>
                     </p>
                     <button class="w-full bg-green-500 text-white py-2 rounded">
                         Chi tiết
